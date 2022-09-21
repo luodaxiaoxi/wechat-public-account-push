@@ -102,7 +102,7 @@ export const config = {
       city: "无锡",
       horoscopeDate: '11-16',
       horoscopeDateType: '今日',
-      openUrl: "https: "https://luodaxiaoxi.github.io/",
+      openUrl: "https://luodaxiaoxi.github.io/",
       festivals: [ {"type": "*生日", "name": "ceshi", "year": "1998", "date": "09-28"},],
       customizedDateList: [ {"keyword": "love_day", date: "2022-02-07"},]
     },
