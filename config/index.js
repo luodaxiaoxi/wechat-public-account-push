@@ -60,15 +60,15 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "宝贝",
+      name: "宝贝", 
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "og-1B5wtTz_oNRYZ6MO4Wf0nGjWM",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "OBHhvQR488y5J8A79ist39o6418-oFAT0jgwN_RmRu4",
       // 所在省份
-      province: "江西",
+      province: "江西", 
       // 所在城市
-      city: "南昌",
+      city: "南昌", 
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '08-09',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -95,19 +95,19 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "测试",
+      id: "og-1B5yJE6FCvRoRY2U26x6CzI6Q",
+      useTemplateId:  "OBHhvQR488y5J8A79ist39o6418-oFAT0jgwN_RmRu4",
+      province: "江苏",
+      city: "无锡",
+      horoscopeDate: '11-16',
+      horoscopeDateType: '今日',
+      openUrl: "https: "https://luodaxiaoxi.github.io/",
+      festivals: [ {"type": "*生日", "name": "ceshi", "year": "1998", "date": "09-28"},],
+      customizedDateList: [ {"keyword": "love_day", date: "2022-02-07"},]
     },
     {
-      name: "老婆2",
+      name: "测试",
       id: "",
       useTemplateId: "",
       province: "",
