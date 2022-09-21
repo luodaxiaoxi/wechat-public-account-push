@@ -34,9 +34,9 @@ export const config = {
     // 土味情话(彩虹屁)
     earthyLoveWords: true,
     // 朋友圈文案
-    momentCopyrighting: false,
+    momentCopyrighting: true,
     // 毒鸡汤
-    poisonChickenSoup: false,
+    poisonChickenSoup: true,
     // 古诗古文
     poetry: false,
 
@@ -51,7 +51,7 @@ export const config = {
 
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "网络",
+  LITERARY_PREFERENCE: "",
   
 
   /**
