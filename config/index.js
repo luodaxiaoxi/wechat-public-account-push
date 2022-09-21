@@ -28,7 +28,7 @@ export const config = {
 
     /** 每日N句 */
     // 金山每日一句
-    CIBA: false,
+    CIBA: true,
     // 每日一言
     oneTalk: true,
     // 土味情话(彩虹屁)
@@ -51,7 +51,7 @@ export const config = {
 
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: "",
+  LITERARY_PREFERENCE: "原创",
   
 
   /**
@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "og-1B5wtTz_oNRYZ6MO4Wf0nGjWM",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "OrQDsj2mm3MA1YCrGS7OpnqGeONO88Oo2Dyy_sOQe6w",
+      useTemplateId: "oOYyXc3_BPDWF3Xe5hkaOtLwuriFu_3u-sKw84sWWRQ",
       // 所在省份
       province: "江西", 
       // 所在城市
@@ -97,7 +97,7 @@ export const config = {
     {
       name: "luoxiao",
       id: "og-1B5yJE6FCvRoRY2U26x6CzI6Q",
-      useTemplateId:  "OrQDsj2mm3MA1YCrGS7OpnqGeONO88Oo2Dyy_sOQe6w",
+      useTemplateId:  "oOYyXc3_BPDWF3Xe5hkaOtLwuriFu_3u-sKw84sWWRQ",
       province: "江苏",
       city: "无锡",
       horoscopeDate: '11-16',
